@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋
 I am Aditya Pawar I have done by b tech in Electrical Engineering , Currently I am Doing C-DAC from IET Pune
 
 <!--
