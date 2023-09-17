@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Aditya Pawar I have done by b tech in Electrical Engineering , Currently I am Doing C-DAC from IET Pune
 
 <!--
 **adityapawar6020/adityapawar6020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
